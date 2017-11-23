@@ -1,4 +1,7 @@
-### Hi I am Dhruv Tyagi
+           
+![Avatar](/images/avatar.png)
+### Hi I am **Dhruv Tyagi**  
+
 
 You can use the [editor on GitHub](https://github.com/Dhruvdt/dhruvdt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +28,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![GitHub Logo](/images/background.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Format: ![Alt Text](url)
 ```
 
