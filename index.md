@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.flaticon.com/free-icon/notification_294055) and ![Image](src)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
