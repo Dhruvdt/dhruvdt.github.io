@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/background.png)
 Format: ![Alt Text](url)
 ```
 
