@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![GitHub Logo](/images/background.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Format: ![Alt Text](url)
 ```
 
