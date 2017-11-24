@@ -1,0 +1,20 @@
+- intro:
+  role: "Here are my latest projects."
+
+- project:
+  title: Digital Card
+  link: "#"
+  tagline: "Digital Menu is the online food ordering Application. Which can be used in many Cities and in this Application we provide many Services to our Customers like Hotel booking, Instant Food Ordering, Easily Check-out, Text and Email sign up, Coupon punch download etc"
+- project:
+  title: Conversion Classic Perl to Moose Perl
+  link: "#"
+  tagline: "In this Project Client requirement is to convert the Classic Perl into the modern moose Perl and also Written in the C++."
+- project:
+  title: Automobile App (In Beta Phase Company product )
+  link: "#"
+  tagline: "Automobile App is the Android Application Which providing the Car Servicing Services to the Customers and they also provide some valuable offers to the customers. And Having Some Nearby places Features related to the Automobile."
+- project:
+  title: MADE EASY - GATE/ESE Test Series
+  link: "https://play.google.com/store/apps/details?id=com.madeeasy.easy&hl=en"
+  tagline: "Online Test Series is designed considering the current trend of actual examination.The test papers are developed by RnD wing of MADE EASY which includes experienced faculties, professors from reputed colleges/universities and GATE and ESE toppers. Subject-wise and Full syllabus tests are designed for thorough coverage of the entire syllabus in a systematic way."
+
