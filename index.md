@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 : Pharmacists Mutual](/sample_page)
-<img src="images/project_one.png?raw=true"/>
+<img src="images/project_one.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
