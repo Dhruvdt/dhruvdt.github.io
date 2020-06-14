@@ -1,13 +1,9 @@
-title: Hello, I'm Dhruv Tyagi. # your name (or website title) here
+title: Dhruv Tyagi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a Java Developer 
+  First description 
   <br><br>
-  I am a java/android developer based in India.
-    <br><br>
-  As a freelancer, I works also with companies,
-  <br><br>
- startups and individuals to create a robust softwares for the digital business. 
+  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
