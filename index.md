@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 : Pharmacists Mutual](/sample_page)
+[Project 1 : Pharmacists Mutual](/phi.md)
 <img src="images/project_one.jpg?raw=true"/>
 
 ---
