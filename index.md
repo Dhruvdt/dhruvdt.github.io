@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Ohio Mutual Insurance Group](/pdf/sample_presentation.pdf)
-<img src="images/project_two.jpg?raw=true"/>
+<img src="images/project_two.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 : Pharmacists Mutual](https://www.phmic.com/)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Ohio Mutual Insurance Group](https://public.omig.com/index.cfm/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
