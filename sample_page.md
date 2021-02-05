@@ -13,15 +13,15 @@ mitigating the code duplicity.
 <br /><br />
 ###  Technology Used
 
-Java
+• Java
 <br />
-AngularJS
+• AngularJS
 <br />
-Spring Boot
+• Spring Boot
 <br />
-Hibernate
+• Hibernate
 <br />
-Kafka
+• Kafka
 
 ###  Project Site URL
 <br />
