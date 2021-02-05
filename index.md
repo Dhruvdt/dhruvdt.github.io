@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Ohio Mutual Insurance Group](/pdf/sample_presentation.pdf)
-<img src="images/project_two.png?raw=true"/>
+<img src="images/project_two.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
