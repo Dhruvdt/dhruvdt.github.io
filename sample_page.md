@@ -10,7 +10,6 @@ mitigating the code duplicity.
 <br />
 • Working on the sensitive data exposure and daily cycle reports
 
-<br /><br />
 ###  Technology Used
 
 • Java
