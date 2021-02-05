@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+### Pharmacists Mutual Insurance Company
 
 **Project description:** Integrating with third party services and external APIs as a part of the implementation of web
 application standardizing the way of user accounts management amongst different projects and
@@ -8,7 +8,13 @@ mitigating the code duplicity.
 • Working on the sensitive data exposure and daily cycle reports
 • Environment - Java, Angular JS, Spring Boot, Hibernate ,JPA and Web Services
 
+###  Technology Used
 
+Java
+AngularJS
+Spring Boot
+Hibernate
+Kafka
 
 ###  Project Site URL
 
